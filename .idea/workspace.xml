@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1384b438-b072-4196-b6ff-8fbdedbcf8e2" name="Default Changelist" comment="new page...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601472666895</updated>
       <workItem from="1601472668664" duration="929000" />
-      <workItem from="1601473610035" duration="1884000" />
+      <workItem from="1601473610035" duration="2640000" />
+      <workItem from="1601547330173" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="new page...">
       <created>1601473378763</created>
